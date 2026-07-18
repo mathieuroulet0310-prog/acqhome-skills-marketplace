@@ -81,7 +81,8 @@ Three ways to produce it, in order of control:
 
 ### Route 1: Off-the-shelf skill (fastest)
 
-Gooseworks distributes their pipeline as an installable agent skill — `npx gooseworks install --all`, then invoke the goose-ads skill from your agent. It handles rendering, recording, SFX, and stitching end to end. Use this to validate the format before building anything custom. (Their ads-skills source repo is public but carries no open-source license — treat it as reference reading, not code to vendor.)
+<!-- [patch acqhome-skills-marketplace 2026-07-18] Commande d'installation npx neutralisée : package npm tiers non épinglé + installation en masse de skills d'agent. Installation manuelle et revue par l'utilisateur uniquement. -->
+Gooseworks distributes their pipeline as an installable agent skill. **Do not run their installer from an agent session** — it is an unpinned third-party npm package that mass-installs agent skills; if you want it, install it yourself, manually, after reviewing what it ships (search "gooseworks" on npm and GitHub). It handles rendering, recording, SFX, and stitching end to end. Use this to validate the format before building anything custom. (Their ads-skills source repo is public but carries no open-source license — treat it as reference reading, not code to vendor.)
 
 ### Route 2: Code-based pipeline (full control)
 
