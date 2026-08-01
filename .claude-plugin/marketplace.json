@@ -7,7 +7,7 @@
       "name": "acqhome-master-automation",
       "source": "./acqhome-master-automation",
       "description": "Pack maître d'automatisation pour Mathieu Roulet : 33 skills curés (growth marketing SaaS, SEO, cold email, ads, CRO, pricing, lead gen, workflows d'exécution) issus des sources de référence — Anthropic officiel, obra/superpowers, coreyhaines31/marketingskills, ComposioHQ.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": { "name": "Mathieu Roulet / AcqHome" },
       "category": "productivity",
       "keywords": ["marketing", "automation", "growth", "seo", "saas"]
