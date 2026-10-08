@@ -1,12 +1,12 @@
 # acqhome-skills-marketplace
 
-Marketplace personnel Claude Code / Cowork. Plugin : **acqhome-master-automation** (v1.1.0, 39 skills).
+Marketplace personnel Claude Code / Cowork. Plugin : **acqhome-master-automation** (v1.2.0, 34 skills).
 
 Skills curés depuis [anthropics/skills](https://github.com/anthropics/skills),
 [obra/superpowers](https://github.com/obra/superpowers),
 [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) et
 [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills),
-avec scan sécurité avant publication. Synchronisé le 2026-10-08.
+avec scan sécurité avant publication. Synchronisé le 2026-10-09.
 
 ```
 /plugin marketplace add <owner>/acqhome-skills-marketplace

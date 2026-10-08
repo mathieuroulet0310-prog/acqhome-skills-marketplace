@@ -1,7 +1,7 @@
 {
   "name": "acqhome-master-automation",
-  "version": "1.1.0",
-  "description": "Pack maître d'automatisation pour Mathieu Roulet : 42 skills curés (growth marketing SaaS, SEO, cold email, ads, CRO, pricing, lead gen, design/UI-UX, sécurité applicative, workflows d'exécution) issus de 7 sources de référence — Anthropic officiel, obra/superpowers, coreyhaines31/marketingskills, ComposioHQ, nextlevelbuilder/ui-ux-pro-max, Nutlope/hallmark, trailofbits/skills.",
+  "version": "1.2.0",
+  "description": "Pack maître d'automatisation pour Mathieu Roulet : 34 skills curés (growth marketing SaaS, SEO, cold email, ads, CRO, pricing, lead gen, design/UI-UX, sécurité applicative) issus de 6 sources de référence — Anthropic officiel, coreyhaines31/marketingskills, ComposioHQ, nextlevelbuilder/ui-ux-pro-max, Nutlope/hallmark, trailofbits/skills. Superpowers, claude-api et insecure-defaults sont installés via les plugins officiels.",
   "author": { "name": "Mathieu Roulet / AcqHome" },
   "keywords": ["marketing", "automation", "growth", "seo", "saas"]
 }
